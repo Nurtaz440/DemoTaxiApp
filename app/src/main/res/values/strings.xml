@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyTaxi</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibnVydGF6ZGV2IiwiYSI6ImNsZjAxOHRlczA0c3kzem9lZW56OGpkbnQifQ.LSRMBHKUI-xis4iCFgUJFQ</string>
+    <string name="_3d">3D</string>
+    <string name="transit">Transit</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="traffic">Traffic</string>
+    <string name="bir">1</string>
+    <string name="free">Свободен</string>
+    <string name="busy">Занят</string>
+    <string name="order">Заказы</string>
+    <string name="border">Бордюр</string>
+    <string name="tariff">Тарифы</string>
+    <string name="mapbox_3d_style">mapbox://styles/nurtazdev/clf5efx7900a001mlaqks480o</string>
+    <string name="mapbox_3d_accsses">pk.eyJ1IjoibnVydGF6ZGV2IiwiYSI6ImNsZjAxOHRlczA0c3kzem9lZW56OGpkbnQifQ.LSRMBHKUI-xis4iCFgUJFQ</string>
+</resources>
