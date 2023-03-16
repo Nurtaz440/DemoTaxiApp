@@ -8,7 +8,7 @@
 :point_up: This is demo version of MyTaxi App.
 </p>
 
-<img alt="fragment 1" src="https://files.fm/u/y5racw2td" width="250" height="500"/>
+<img alt="fragment 1" src="https://files.fm/f/8xprjwwxv" width="250" height="500"/>
 <img alt="fragment 2" src="https://drive.google.com/file/d/1i2CIJs11C3Uyi7kwzbI4EJN5r1YIsyEq/view?usp=sharing" width="250" height="500"/>
 <a href="https://youtu.be/kwXwgB3pPzI" target="blank">or watch demo video in Youtube</a> 
 <h1>
