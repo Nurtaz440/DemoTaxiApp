@@ -7,9 +7,15 @@
 <p>
 :point_up: This is demo version of MyTaxi App.
 </p>
-
-<img alt="fragment 1" src="https://files.fm/f/8xprjwwxv" width="250" height="500"/>
-<img alt="fragment 2" src="https://drive.google.com/file/d/1i2CIJs11C3Uyi7kwzbI4EJN5r1YIsyEq/view?usp=sharing" width="250" height="500"/>
+<div style="display:block" >
+<img alt="fragment 1" src="https://i.ibb.co/bz13CGy/photo-2023-03-16-21-02-14.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/QfpPzMw/photo-2023-03-16-21-02-17.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/xz3rhpQ/photo-2023-03-16-21-02-20.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/k9kkGrH/photo-2023-03-16-21-02-22.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/V2KfPjx/photo-2023-03-16-21-02-25.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/XxFDcyZ/photo-2023-03-16-21-02-27.jpg" width="250" height="500"/>
+<img alt="fragment 2" src="https://i.ibb.co/wpf14LM/photo-2023-03-16-21-02-30.jpg" width="250" height="500"/>
+</div>
 <a href="https://youtu.be/kwXwgB3pPzI" target="blank">or watch demo video in Youtube</a> 
 <h1>
  Task description
